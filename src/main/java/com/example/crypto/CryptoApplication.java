@@ -1,3 +1,4 @@
+
 package com.example.crypto;
 
 import org.springframework.boot.SpringApplication;
